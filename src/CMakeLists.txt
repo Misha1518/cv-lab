@@ -84,6 +84,8 @@ endif()
 # Project
 # --------------------
 
+FIND_PACKAGE(Threads REQUIRED)
+
 include_directories("${CMAKE_SOURCE_DIR}")
 
 file(GLOB SRCFILES ${SRCFILES} "*.cpp" "*.c")
@@ -92,7 +94,7 @@ file(GLOB HFILES ${HFILES} "*.h" "*.hpp")
 set (addExe ${SRCFILES} ${HFILES})
 add_executable(${ProjectName} ${addExe})
 set_property(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR} PROPERTY VS_STARTUP_PROJECT ${ProjectName})
-target_link_libraries (${ProjectName}  ${OpenCV_LIBS})
+target_link_libraries (${ProjectName}  ${OpenCV_LIBS} ${CMAKE_THREAD_LIBS_INIT})
 include_directories (${CMAKE_CURRENT_BINARY_DIR})
 
 # Copies example image in the installation path folder

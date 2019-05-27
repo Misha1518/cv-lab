@@ -1,1 +1,1418 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"reddit_",
+				"reddit_512_1.png\tFile"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"e",
+				"endl\tostream"
+			],
+			[
+				"cropped_",
+				"cropped_roi"
+			],
+			[
+				"mo",
+				"moire_roi_size"
+			],
+			[
+				"a",
+				"added_dct"
+			],
+			[
+				"red",
+				"reddit.jpg"
+			],
+			[
+				"ba",
+				"ba_1.png\tFile"
+			],
+			[
+				"i",
+				"imshow(\"result"
+			],
+			[
+				"add",
+				"added_dct"
+			],
+			[
+				"c",
+				"cropped"
+			],
+			[
+				"pus",
+				"push_back\tfunc"
+			],
+			[
+				"w_s",
+				"w_step"
+			],
+			[
+				"steps",
+				"steps_w"
+			],
+			[
+				"pa",
+				"patch_size"
+			],
+			[
+				"ste",
+				"steps_x"
+			],
+			[
+				"s",
+				"source"
+			],
+			[
+				"reddit",
+				"reddit_512_2.png\tFile"
+			],
+			[
+				"redd",
+				"reddit.jpg\tFile"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"us",
+				"using\tnamespace"
+			],
+			[
+				"event",
+				"event_type"
+			],
+			[
+				"eve",
+				"event\t(server_api.py)"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"js",
+				"json"
+			],
+			[
+				"d",
+				"drop\tfunction"
+			],
+			[
+				"pr",
+				"print\tfunction"
+			],
+			[
+				"pic",
+				"pic_id"
+			],
+			[
+				"jp",
+				"jpg_as_text"
+			],
+			[
+				"ins",
+				"insert_one\tfunction"
+			],
+			[
+				"ca",
+				"cam"
+			],
+			[
+				"str",
+				"string\t(api_events_request.json)"
+			],
+			[
+				"str_t",
+				"str_to_dt\tfunction"
+			],
+			[
+				"ev",
+				"event_type"
+			],
+			[
+				"res",
+				"result_final"
+			],
+			[
+				"get_",
+				"get_event"
+			],
+			[
+				"st",
+				"strftime"
+			],
+			[
+				"f",
+				"format"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"jso",
+				"json_to_dict"
+			],
+			[
+				"Mo",
+				"MongoClient"
+			],
+			[
+				"M",
+				"M"
+			],
+			[
+				"ss",
+				"SSHTunnelForwarder"
+			],
+			[
+				"collect",
+				"collection\t🕮"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"t",
+				"tunnel"
+			],
+			[
+				"p",
+				"pymongo"
+			],
+			[
+				"rem",
+				"remote_port"
+			],
+			[
+				"py",
+				"python3"
+			],
+			[
+				"req",
+				"requirements.txt"
+			],
+			[
+				"n",
+				"next\tfunction"
+			],
+			[
+				"Mat",
+				"Mat1b"
+			],
+			[
+				"get",
+				"getPSNR"
+			],
+			[
+				"filter_sz",
+				"filter_size"
+			],
+			[
+				"filter",
+				"filter_slider"
+			],
+			[
+				"fil",
+				"filter_slider_"
+			],
+			[
+				"ds",
+				"dst5x5_fixedNoise"
+			],
+			[
+				"noise",
+				"noiseVariance\t(WienerFilter.cpp)"
+			],
+			[
+				"es",
+				"estimatedNoiseVariance"
+			],
+			[
+				"vecto",
+				"vector"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"Wi",
+				"WienerFilterImpl"
+			],
+			[
+				"is",
+				"isl\t(islands.py)"
+			],
+			[
+				"cla",
+				"classic\t(compare.py)"
+			],
+			[
+				"clas",
+				"classic"
+			],
+			[
+				"isl",
+				"isl_answer"
+			],
+			[
+				"po",
+				"pop_per_isle_size\t(islands.py)"
+			],
+			[
+				"Is",
+				"IslandGA"
+			],
+			[
+				"Cl",
+				"ClassicGA"
+			],
+			[
+				"sel",
+				"self\t(islands.py)"
+			],
+			[
+				"isla",
+				"island"
+			],
+			[
+				"tes",
+				"test\t(islands.py)"
+			],
+			[
+				"cur",
+				"cur_gen\t(classic.py)"
+			],
+			[
+				"gens",
+				"gens_per_exchange"
+			],
+			[
+				"pop",
+				"pop_per_isle_size"
+			],
+			[
+				"bord",
+				"borders\tstatement"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"alp",
+				"alpha"
+			],
+			[
+				"rand",
+				"randint\t(som.py)"
+			],
+			[
+				"ch",
+				"choice\tfunction"
+			],
+			[
+				"max",
+				"max_gen"
+			],
+			[
+				"al",
+				"alphas1"
+			],
+			[
+				"par",
+				"parent2"
+			],
+			[
+				"new",
+				"new_pop"
+			],
+			[
+				"true",
+				"true_gm"
+			],
+			[
+				"sc",
+				"scores\tstatement"
+			],
+			[
+				"w",
+				"winner"
+			],
+			[
+				"va",
+				"value\t(test_functions.py)"
+			],
+			[
+				"in",
+				"individual"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"vlau",
+				"values\t(test_functions.py)"
+			],
+			[
+				"v",
+				"values\tfunction"
+			],
+			[
+				"min",
+				"min_coords"
+			],
+			[
+				"r",
+				"result"
+			],
+			[
+				"dr",
+				"draw_init"
+			],
+			[
+				"Tr",
+				"True"
+			],
+			[
+				"cal",
+				"calinski_harabaz_score\tfunction"
+			],
+			[
+				"si",
+				"silhouette_score\tfunction"
+			],
+			[
+				"ite",
+				"items\t(sg_internals.py)"
+			],
+			[
+				"lo",
+				"logger\tstatement"
+			],
+			[
+				"de",
+				"debug"
+			],
+			[
+				"l",
+				"logger\tstatement"
+			],
+			[
+				"iter",
+				"iteration\t(som.py)"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"win",
+				"wine_normalized.csv\tFile"
+			],
+			[
+				"abs",
+				"absenteism"
+			],
+			[
+				"ta",
+				"take_one\tfunction"
+			],
+			[
+				"ran",
+				"range"
+			],
+			[
+				"dis",
+				"distances"
+			],
+			[
+				"me",
+				"metric\t(som.py)"
+			],
+			[
+				"dat",
+				"data_path\t(som.py)"
+			],
+			[
+				"te",
+				"testy"
+			],
+			[
+				"pl",
+				"plt\tmodule"
+			],
+			[
+				"g",
+				"grid_to_mat\tfunction"
+			],
+			[
+				"clu",
+				"cluster_mapper"
+			],
+			[
+				"plo",
+				"plot_clusters"
+			],
+			[
+				"che",
+				"checkpoints\t(som.py)"
+			],
+			[
+				"di",
+				"dists"
+			],
+			[
+				"Wa",
+				"WARNING\tstatement"
+			],
+			[
+				"sa",
+				"savefig\tfunction"
+			],
+			[
+				"sav",
+				"save_dir"
+			],
+			[
+				"fro",
+				"from_file"
+			],
+			[
+				"fr",
+				"from_file"
+			],
+			[
+				"loa",
+				"load"
+			],
+			[
+				"from",
+				"from_file"
+			],
+			[
+				"con",
+				"continue_train\tparam"
+			],
+			[
+				"self",
+				"self.grid"
+			],
+			[
+				"dir",
+				"directory"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 347,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main.cpp",
+			"settings":
+			{
+				"buffer_size": 5680,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/oberon/.bash_profile",
+			"settings":
+			{
+				"buffer_size": 34,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"ls",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"lsp e",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp d",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"l",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"make",
+				"Build With: Make"
+			],
+			[
+				"git s",
+				"GitSavvy: help"
+			],
+			[
+				"mdprev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"latex",
+				"LaTeXTools: Show word count"
+			],
+			[
+				"late",
+				"LaTeXTools: Show toggles"
+			],
+			[
+				"la",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"gith",
+				"Github: Plugin Settings"
+			],
+			[
+				"git ",
+				"Git: Push"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"go",
+				"Git: Commit"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 533.0
+	},
+	"console":
+	{
+		"height": 364.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/oberon/misha/cv-lab",
+		"/home/oberon/misha/cv-lab/pics",
+		"/home/oberon/misha/cv-lab/src"
+	],
+	"file_history":
+	[
+		"/home/oberon/misha/cv-lab/src/main.cpp",
+		"/home/oberon/misha/cv-lab/Moire.sublime-project",
+		"/home/oberon/misha/cv-lab/src/CMakeLists.txt",
+		"/home/oberon/CV/mjpeg-serv/index.html",
+		"/home/oberon/CV/mjpeg-serv/mjpeg_server.py",
+		"/home/oberon/CV/events-api/test.py",
+		"/home/oberon/Test/task.py",
+		"/home/oberon/Test/TCGA-KIRC.txt",
+		"/home/oberon/Test/gdc_download_20190519_150822.196868/1d812893-91c9-4d8d-93dc-a0d4cd766389/7972a299-f3bb-43a5-b75f-a1cf3c998bc5.FPKM.txt",
+		"/home/oberon/CV/events-api/api.Dockerfile",
+		"/home/oberon/CV/events-api/api/config.json",
+		"/home/oberon/CV/events-api/api/src/utils.py",
+		"/home/oberon/CV/events-api/mongo.Dockerfile",
+		"/home/oberon/CV/events-api/.gitignore",
+		"/home/oberon/CV/events-api/front.Dockerfile",
+		"/home/oberon/CV/events-api/mocs/api_images_answer.json",
+		"/home/oberon/CV/events-api/mocs/api_images_request.json",
+		"/home/oberon/CV/events-api/mocs/api_cams_answer.json",
+		"/home/oberon/CV/events-api/mocs/api_events_request.json",
+		"/home/oberon/CV/events-api/mocs/api_events_answer.json",
+		"/home/oberon/CV/events-api/mocs/api_hist_answer.json",
+		"/home/oberon/CV/events-api/mocs/api_hist_request.json",
+		"/home/oberon/CV/events-api/api/src/server_api.py",
+		"/home/oberon/CV/events-api/docker-compose.yaml",
+		"/home/oberon/CV/events-api/events_pipeline/src/server_geo.py",
+		"/home/oberon/CV/events-api/events_pipeline/Dockerfile",
+		"/home/oberon/CV/events-api/events_pipeline/.gitignore",
+		"/home/oberon/CV/drone-videoanalysis/events_pipeline/opencv.Dockerfile",
+		"/home/oberon/CV/drone-videoanalysis/front/src/api/index.js",
+		"/home/oberon/CV/drone-videoanalysis/events_pipeline/API/client_mongo.py",
+		"/home/oberon/CV/drone-videoanalysis/events_pipeline/VideoAnalysis/client_MRCNN.py",
+		"/home/oberon/CV/drone-videoanalysis/front/webpack.config.js",
+		"/home/oberon/CV/drone-videoanalysis/events_pipeline/configs",
+		"/home/oberon/university/Wiener/wiener-lab/src/CMakeLists.txt",
+		"/home/oberon/university/Wiener/wiener-lab/src/main.cpp",
+		"/home/oberon/university/Wiener/wiener-lab/.gitignore",
+		"/home/oberon/university/Wiener/Wiener/build/CMakeCache.txt",
+		"/home/oberon/university/Wiener/Wiener/src/CMakeLists.txt",
+		"/home/oberon/university/AdaptiveWienerFilter/ExampleMain.cpp",
+		"/home/oberon/university/ann-lab/GA/README.ms",
+		"/home/oberon/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/oberon/university/ann-lab/MLP/plotter.py",
+		"/home/oberon/university/ann-lab/MLP/perceptron.py",
+		"/home/oberon/university/ann-lab/MLP/learning.py",
+		"/home/oberon/university/ann-lab/GA/helpers.py",
+		"/home/oberon/university/ann-lab/GA/population.py",
+		"/home/oberon/university/ann-lab/GA/individual.py",
+		"/home/oberon/university/ann-lab/GA/CGA.py",
+		"/home/oberon/university/ann-lab/GA/individual",
+		"/home/oberon/.zshrc",
+		"/home/oberon/university/ann-lab/SOM/plotter.py",
+		"/home/oberon/university/ann-lab/SOM/node.py",
+		"/home/oberon/university/ann-lab/.gitignore",
+		"/home/oberon/university/ann-lab/SOM/som.py",
+		"/home/oberon/university/ann-lab/SOM/fireplace.py",
+		"/home/oberon/university/ann-lab/datasets/wine_normalized.csv",
+		"/home/oberon/university/ann-lab/generator/sg_internals.py",
+		"/home/oberon/university/ann-lab/SOM/2vid.py",
+		"/home/oberon/university/ann-lab/datasets/wdbc_normalized.csv",
+		"/home/oberon/Downloads/wdbc.names",
+		"/home/oberon/Downloads/breast-cancer-wisconsin.data",
+		"/home/oberon/Downloads/wdbc.data",
+		"/home/oberon/university/ann-lab/datasets/Absenteeism_at_work_AAA/absenteeism_normalized.csv",
+		"/home/oberon/university/ann-lab/datasets/dow_jones_index/dow_jones_index.data",
+		"/home/oberon/Downloads/water-treatment.data",
+		"/home/oberon/university/ann-lab/datasets/Absenteeism_at_work_AAA/Absenteeism_at_work.csv",
+		"/home/oberon/university/ann-lab/SOM/checkpoints/som_1554922885/checkpoint.json",
+		"/home/oberon/university/ann-lab/SOM/checkpoints/som_1554921635/checkpoint.json",
+		"/home/oberon/university/ann-lab/SOM/checkpoints/som_1554920964/checkpoint.json",
+		"/home/oberon/university/ann-lab/MLP/neuron.py",
+		"/home/oberon/university/ann-lab/SOM/checkpoints/som_1554920875/checkpoint.json",
+		"/home/oberon/university/ann-lab/SOM/utils.py",
+		"/home/oberon/.config/sublime-text-3/Packages/Clang Format/Default (Linux).sublime-keymap",
+		"/home/oberon/university/test.cpp",
+		"/home/oberon/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/oberon/university/ann-lab/MLP/README.md",
+		"/home/oberon/university/ann-lab/generator/README.md",
+		"/home/oberon/university/ann-lab/MLP/utils.py",
+		"/home/oberon/university/ann-lab/MLP/requirements.txt",
+		"/home/oberon/university/ann-lab/generator/generate.py",
+		"/home/oberon/university/ann-lab/README.md",
+		"/home/oberon/university/ann-lab/generator/out_test/train.csv",
+		"/home/oberon/university/ann-lab/MLP/checkpoints/mlp_1554665637/checkpoint.json",
+		"/home/oberon/university/ann-lab/MLP/checkpoints/mlp_1554669287/predictions.csv",
+		"/home/oberon/university/ann-lab/generator/1/test.csv",
+		"/home/oberon/university/ann-lab/MLP/layers.py",
+		"/home/oberon/university/ann-lab/MLP/saved/mlp_1554134032.json",
+		"/home/oberon/university/ann-lab/generator/out_test/test.csv",
+		"/home/oberon/Desktop/GitList.txt",
+		"/home/oberon/university/ann-lab/MLP/saved",
+		"/home/oberon/university/ann-lab/README.html",
+		"/home/oberon/.config/sublime-text-3/Packages/User/All Autocomplete.sublime-settings",
+		"/home/oberon/.config/sublime-text-3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/home/oberon/TKRS/tkrs/prepare.sh",
+		"/home/oberon/TKRS/tkrs/tkrs-recieve/src/test.py",
+		"/home/oberon/TKRS/tkrs/run.sh",
+		"/home/oberon/TKRS/tkrs/tkrs.dockerfile",
+		"/home/oberon/TKRS/tkrs/mongo.dockerfile",
+		"/home/oberon/TKRS/tkrs/Dockerfile",
+		"/home/oberon/TKRS/tkrs/logs/parser_1553706544.976886.log",
+		"/home/oberon/TKRS/tkrs/logs/parser_1553706998.5504284.log",
+		"/home/oberon/TKRS/tkrs/tkrs-parse/src/utils.py",
+		"/home/oberon/TKRS/tkrs/tkrs-parse/src/db_tools.py",
+		"/home/oberon/TKRS/tkrs/tkrs-parse/src/constants.py",
+		"/home/oberon/TKRS/tkrs/recieve.dockerfile",
+		"/home/oberon/TKRS/tkrs/tkrs-send/src/net_utils.py",
+		"/home/oberon/TKRS/tkrs/tkrs-send/src/db_utils.py",
+		"/home/oberon/TKRS/tkrs/tkrs-send/src/sender.py",
+		"/home/oberon/TKRS/tkrs/all.dockerfile",
+		"/home/oberon/TKRS/tkrs/requirements.txt",
+		"/home/oberon/TKRS/tkrs/tkrs-recieve/src/reciever.py",
+		"/home/oberon/TKRS/tkrs/logs/sender_1553696110.log",
+		"/home/oberon/TKRS/tkrs/tkrs-send/src/constants.py",
+		"/home/oberon/TKRS/tkrs/tkrs-recieve/src/constants.py",
+		"/home/oberon/TKRS/tkrs/tkrs-recieve/src/test.dat",
+		"/home/oberon/university/ann-lab/MLP/perceptron.log",
+		"/home/oberon/university/ann-lab/MLP/loss.py",
+		"/home/oberon/university/ann-lab/MLP/activators.py",
+		"/home/oberon/university/ann-lab/generator/tests.py",
+		"/home/oberon/university/ann-lab/generator/utils.py",
+		"/home/oberon/university/watson-lab/app/main.py",
+		"/home/oberon/university/watson-lab/app/utils/gui_utils.py",
+		"/home/oberon/university/watson-lab/app/utils/misc.py",
+		"/home/oberon/university/watson-lab/app/utils/reddit_utils.py",
+		"/home/oberon/university/watson-lab/app/utils/plot_utils.py",
+		"/home/oberon/university/watson-lab/app/utils/watson_utils.py",
+		"/home/oberon/university/watson-lab/reddit_test.py",
+		"/home/oberon/university/watson-lab/app/ibm.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 572.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bgr[",
+			"source",
+			"added_dct",
+			"    \n",
+			".png'",
+			"'",
+			"()",
+			");",
+			"imshow",
+			");",
+			"imshow",
+			"added_dct",
+			"patch_size",
+			"added_dct",
+			"0",
+			"cropped_dct",
+			"0",
+			"cropped",
+			"(w_step + 1) * ",
+			"step",
+			"patch_size",
+			"w_",
+			"steps_",
+			"();\n",
+			"cv::",
+			"t )",
+			"t )\n    {",
+			"( int",
+			"* \n*",
+			"for",
+			"* \n* \n* \n*",
+			"* \n* \n*",
+			"* \n*",
+			"*"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_savvy.repo_path": "/home/oberon/misha/cv-lab",
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5680,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5383,
+								5383
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										5383,
+										5384
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										5342,
+										5343
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_savvy.repo_path": "/home/oberon/misha/cv-lab",
+							"lsp_language":
+							{
+								"clangd": "cpp"
+							},
+							"show_definitions": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2902.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/oberon/.bash_profile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"file": "pics/k.jpg",
+					"semi_transient": true,
+					"stack_index": 2,
+					"type": "image"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 196.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Moire (Linux)",
+	"project": "Moire.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 520.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
