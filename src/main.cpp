@@ -60,6 +60,8 @@ int main(int argc, char ** argv){
 
         if (p < p_min)
             spoof = true;
+
+        sigma += delta;
     }
 
 
